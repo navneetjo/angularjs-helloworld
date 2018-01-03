@@ -1,4 +1,4 @@
-angularjs-helloworld
+Angularjs-helloworld
 ====================
 
 Angular JS Hello World sample.
